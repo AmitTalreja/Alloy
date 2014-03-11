@@ -1,4 +1,4 @@
 Alloy
 =====
 
-Understanding Alloy functionality
+Understanding Alloy functionality.
